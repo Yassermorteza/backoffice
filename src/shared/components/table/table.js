@@ -14,6 +14,7 @@ import redMarekr from '../../../styles/images/marker-red.png';
 import greenMarekr from '../../../styles/images/marker-green.png';
 
 // import Vehicles from '../../../mockData.json';
+const APIkey = 'your key';
 
 @inject('VehicleStore')
 @observer
@@ -203,7 +204,7 @@ class Vtable extends Component {
     findAddress = async(lat, lng) => {
         try {
             const res = await fetch(
-                `https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyB8UinpJbSIpXbbPVpBdPTB1oniD4gK3CM&latlng=${lat},${lng}&sensor=true`
+                `https://maps.googleapis.com/maps/api/geocode/json?key=${APIkey}=${lat},${lng}&sensor=true`
             );
             const result = await res.json();
             this.setState({ address: result.results[0].formatted_address });
