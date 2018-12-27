@@ -1,0 +1,4702 @@
+[
+  {
+    "_id": "aTdvbnU4eWFlY3NkN3NkLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.34093106287164,
+        52.55778394690541
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "red",
+      "brand": "BMW",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "MXRuNHhzcG9lMnZleXA1LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.375605124903004,
+        52.538297247068215
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "aGdwdnAwbjMzNGk0Y3YwLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.338276742283721,
+        52.54863786257427
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "black",
+      "brand": "VW",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "cXVtdXlidDdwaWVlbjNnLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.365437781886936,
+        52.52724544484108
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "gray",
+      "brand": "Audi",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "ZXBsdjR2ZDhka2RpNW11LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.453912858271204,
+        52.54635466907062
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "purple",
+      "brand": "Opel",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "bmR2Yjh0cDdjZXhxeTZzLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.327306523492314,
+        52.50082266098139
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "green",
+      "brand": "Fiat",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "czEzYXRtY3ZvdWhzamUzLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.369801177681863,
+        52.53658660626422
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "black",
+      "brand": "Ford",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "amp3MHhkc3ZieHJrMXFtLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.363203602248099,
+        52.54920347238796
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "yellow",
+      "brand": "Porsche",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dWZjZnF3OHlhbG54Nm5iLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.346785942328854,
+        52.52722579329819
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "orange",
+      "brand": "Mini-Cooper",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "ZW8wZDBlaGZza3B2NWl2LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.428158532612644,
+        52.506055350835275
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NG5lYXVqZGNraHA5eG53LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.335467363592024,
+        52.48967245539151
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "bzZ0MHg1amh2Z2RhMmR4LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.39107655857976,
+        52.51280821759114
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NmszdHYwdWdnc2xnYmRnLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.347672755759348,
+        52.51636053274589
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "MWZjZ2V1Nm0xY2pvYnFiLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.440968381187075,
+        52.545500558606015
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "eG82YzJwZWVqbGE5cXBhLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.338837064793484,
+        52.49529735345956
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "ZXFnN3VsdGNzaWF2MHVzLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.443255060512945,
+        52.52277174935199
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "cGh3dmF6dHg3cnNkdWhnLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.409994885328715,
+        52.556664279118564
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "Znc4ZzExYWU5djVsaW8yLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.448361111600677,
+        52.52335158138437
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NGYxNHI0eWdxYWF2c3ZmLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.341159359451309,
+        52.51954375666856
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "OXIwb2hmajl3amhxdTFjLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.34781120725677,
+        52.54513271262004
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "c3UybWhzOW5lZ2F6YW8yLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.401357216282356,
+        52.51307755268953
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "bzhoeXhxYTdpYmdtY3o4LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.431327025382613,
+        52.494918446852566
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "bWVzN2thY256eTZrMXZyLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.394147790386151,
+        52.53596853683679
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "MjJ5bHQwOHg2cXkwY3IyLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.403770132673722,
+        52.54744570802373
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "d2s4emxhZnE1ZXg0c3NvLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.363702596008087,
+        52.55388807460128
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "d3c2cmlvZDU3bWt2eDM2LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.44647491114569,
+        52.50103738680692
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "bHh3c2h0NWJyd2w5MjV5LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.364101415926152,
+        52.490715121222735
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "YWR3enY4ZTN6amJqbmVtLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.415878616533632,
+        52.51721019414531
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NGVidncweTRyOHM2bWR4LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.402212939339831,
+        52.51189752549752
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "aWF0aDhjazZ1cW1qMHpzLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.36331622173744,
+        52.535460186565025
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "MXM3cTZ4M252YXVsc3FwLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.386525668222403,
+        52.52065787287406
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "OHcwdjR3dzVneGZwcGV5LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.396872392358132,
+        52.50994051446828
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "azJ3aW12MTRzbWd6amcxLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.417476546287977,
+        52.502998964631665
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "a3hicGtkejlvNG4yazduLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.375800193995657,
+        52.51638200950441
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "Mnl2OXNscHhqbXZpY3B3LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.445360997299083,
+        52.554737624222
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "ZGd0b2pjb3p6MGFvZWEyLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.377334616924797,
+        52.54715912420915
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "cjZkMmZxOTBhaG44YjAxLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.400052324637706,
+        52.54431564675839
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "eGh5am10MG83ZGhnODFxLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.443732090801577,
+        52.49825603424557
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NXBxOGF4dmtsNjJtOWk2LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.446285580311159,
+        52.55358764250995
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "Znh2MG96bWE0OHdqaGxjLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.433028409100297,
+        52.51687921863111
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dW5tMjhjcjY2ZXBpenk5LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.415898044124447,
+        52.519193760354206
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "cWNzbGdmbDJjcGdzMjdhLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.362230504315974,
+        52.54664964690872
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "OTBiY2xlZWdlNTZ3NXd1LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.361128230307912,
+        52.513997812683684
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NWliNmdtdWdpeHR6MmEwLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.366097744468242,
+        52.48855234827372
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "Z3hyODFuajh2ZnU4c3FmLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.358948671400602,
+        52.499879252701504
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "azJmOWV1c2VwNmc1NzJsLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.399222899437044,
+        52.49867341293155
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dncwdTFpbDJ0amh6emh0LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.419414206442065,
+        52.50087530124774
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "OHpzNm11Z2hjZGY2bGltLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.343888727639722,
+        52.549033455815085
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dnQyZmUydGthZ2IyNm9pLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.381558194956712,
+        52.55137710158441
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "eTkzdGRoeGc1dGkwZHp3LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.440552008391322,
+        52.55611532416563
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "ZDNqOGxkcGh3bDh6NHZkLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.373035142195262,
+        52.55612306205592
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "aG0yc28ya3ZqY29sOTM2LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.405813097540456,
+        52.54405435963926
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "OTFrcngzbzF6YTdmd3NiLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.34793736378292,
+        52.513665931592136
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dmk5enB6dWhhenNjZjBtLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.446491225842125,
+        52.50913945324194
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "aTltbmp2ank0dWpkcnRpLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.384237873759384,
+        52.55642337029016
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "cnBxcjY1anV6cmdyOTNkLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.340517750544272,
+        52.5409383407578
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "cWhvYjNheGQwaGUybWhwLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.405598239698493,
+        52.490621782108995
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dDdjajI3OGZwbW9vYzYzLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.391906205868974,
+        52.548408511869155
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "OWUxbDN3NzllZmFocms3LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.423071258272563,
+        52.49553722076104
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dXB4cG9rbGx5ZGI0dW81LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.445789014418745,
+        52.54907306496117
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "ZnhrZXBhdDk0YnVraHRmLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.398898973304092,
+        52.543920300783334
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "cmo5MG5nNTQ1YjhheXpoLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.442913778290865,
+        52.52028474241562
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "bnQ4OG1ndW94MnAwNjAwLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.388804262489867,
+        52.534441335270984
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "Mzl5aG15bTk1Y3R5cHB3LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.40222882557396,
+        52.50549915673177
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dnM4eGpocjkyMzk0bDkzLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.412320761922553,
+        52.496006005806805
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dTVncmo0eHp0ZTkxcHJ6LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.455191849731877,
+        52.51716560670951
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dTcwMThmNHZudGU5MzZkLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.398943303737052,
+        52.50568491437119
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "ZGxrbWFpb3V3MHFqeWo3LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.356933507451103,
+        52.51027524908994
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dTAyNG9qenBoYWxqbDF2LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.355922014160155,
+        52.53112992884361
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "ZmtxenZrY2xidTdneWxzLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.36612741965488,
+        52.54938901629078
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NGN4YXRmcmJqYmFuNHFiLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.3868344096931,
+        52.5144396167787
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dnZydjM5NjZ6bTl4Y3dsLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.41585140052145,
+        52.5390406734746
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "YTBkcmZla3d5aTgwemxhLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.357054892666588,
+        52.554251735119976
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "cDd2czJ0N3pxcHB6dG04LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.369280523440642,
+        52.505884553556285
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "cm9wcWdwdnFjMW9xYjZsLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.334939791546427,
+        52.504537369347496
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "ZG93dTlmeWtyeTk4ZXM5LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.38983347448136,
+        52.490271061643426
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dTZzY2NlaHA2ZmZyMHlwLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.370811152470539,
+        52.53043273705855
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NWx1Ym51MW1yd2Z2bmJnLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.34766772773084,
+        52.54714716296998
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "OW9rdjc5dDFlajZ4cXVuLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.35148640483301,
+        52.527720072168385
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dWVnYjZ5bHRodWdvYXJvLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.362234701804136,
+        52.501790763703
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "aXhmaWFuaDdiajdneGhxLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.359555489449361,
+        52.49282976812939
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NTcxbXhjNDNtYWsyOGtlLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.348492301461846,
+        52.49352183536862
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NmJpc21rMXB0Y2ludm1hLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.453839895618046,
+        52.53562800944372
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "M2g1YmV5YnVpanNicWN0LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.442049603230515,
+        52.49182037170948
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "M2NuN3RodjJ6OHRibWN4LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.447576320815495,
+        52.52228398636623
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "Y3JsdWdic2JrdWVkbjM3LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.455300943513882,
+        52.553675335422646
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "eXhjNG92eXF1b2N6aXgyLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.358507578768048,
+        52.54605608598099
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "eXYycDY3NjQ4djV0cHl5LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.348923294824436,
+        52.548563796897476
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "bjViM3dldzc4c2FsMXB5LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.393477604960108,
+        52.55183927940999
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "N3ppNml3anlzcGxna3FnLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.398067914996389,
+        52.529028730296226
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "YXJnN3c4d3hhc2dnbjd3LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.432530557900511,
+        52.5221784624633
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "YjZtNGR2NDB3bTZjamU3LnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.350006370384957,
+        52.546673079413566
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "dnZjbGRmeXJyeWlzYTJhLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.394533229413442,
+        52.54923656696688
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "a2c3cHAzcnRhMmZwYmNqLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.422756954472014,
+        52.508426967168276
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "eDFodDVybnRscWh1emNwLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.360471151009088,
+        52.48933846746784
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NHA3N3djeDhpbXR1eXRoLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.357074709429096,
+        52.548993933033174
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "MXAzMXJ2amF4b3dpY3pyLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.426895923929067,
+        52.493549982502216
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "NTByNXJzc2VkOWp1amllLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.388645528603355,
+        52.52623244779365
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "b3pvejZudW12MzlkdWpsLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.348228953103524,
+        52.53534186736785
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  },
+  {
+    "_id": "Ym0zaGd0Yzl4OHJ0YTBsLnZ1bG9n",
+    "@type": "Vehicle",
+    "createdAt": "2018-07-11T14:10:26Z",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        13.406949092818339,
+        52.49930977778834
+      ]
+    },
+    "kind": "Car",
+    "status": "available",
+    "provider": "vulog",
+    "pricing": [
+      {
+        "kind": "ride",
+        "amount": "32",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 20 minutes"
+      },
+      {
+        "kind": "stopover",
+        "amount": "18",
+        "unit": "min",
+        "currency": "EUR",
+        "formatted": "Free for first 30 minutes"
+      }
+    ],
+    "details": {
+      "licensePlate": "F2M-001",
+      "color": "blue",
+      "brand": "Mercedes-Benz",
+      "model": "A Class",
+      "vin": "WDC1569431J293468",
+      "engine": "petrol",
+      "transmission": "automatic",
+      "picture": "https://www.autoscout24.de/assets/auto/images/model-finder/mercedes-benz/mercedes_benz_a_klasse_xs.jpg"
+    },
+    "condition": {
+      "fuelLevel": 46,
+      "inner": 1,
+      "outer": 1,
+      "damages": []
+    }
+  }
+]

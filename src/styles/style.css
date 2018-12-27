@@ -1,0 +1,142 @@
+.pure-table{
+    width: 100%;
+    margin: 0 auto;
+    /* border: 1px solid; */
+    border-collapse: collapse;
+    font-size: 1.2rem;
+}
+
+.pure-table tbody tr:nth-child(odd) {
+    background-color: #e1e1e147;
+}
+
+.pure-table tbody tr:hover {
+    background-color: rgb(184, 184, 184);
+}
+
+.pure-table thead {
+    background-color: #000;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.pure-table thead th {
+    padding: 2%;
+    cursor: pointer;
+}
+
+.pure-table td {
+    text-align: center;
+    padding: 2%;
+}
+
+.controls {
+    overflow: auto;
+}
+
+.controls .pagify-pagination {
+    margin: 1em;
+    padding: 0;
+}
+
+
+.controls .pagify-pagination div {
+    display: inline;
+}
+
+.controls .pagify-pagination span {
+    margin: 0;
+    margin-right: 1em;
+    padding: 0.5em;
+    cursor: pointer;
+    cursor: hand;
+    background: #ddd;
+}
+
+.controls .pagify-pagination .selected span {
+    background: #2196f3;
+    color: #eee;
+    cursor: default;
+}
+
+.search-bar input[type=search] {
+    width: 230px;
+    border: 2px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('./images/searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 10px 20px 10px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    cursor: pointer;
+}
+
+.search-bar input[type=search]:focus {
+    width: 30%;
+}
+
+.search-bar{
+    color: #fff;
+    margin-bottom: 1%;
+}
+
+.search-bar .selector {
+    outline: none;
+    padding: 8px 0;
+    background-color: #2196f3;
+    font-size: 1.2rem;
+    color: aliceblue;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    border: 2px solid #2196f3;
+}
+
+#map {
+	height: 80vh;
+	box-shadow: 1px 2px 8px 2px;
+}
+
+.top-btn {
+    position: fixed;
+    bottom: 0px;
+    right: 15px;
+    z-index: 15000;
+    font-size: 35px;
+    border: none;
+    outline: none;
+    background-color:#fff;
+    color: gray;
+    cursor: pointer;
+    padding: 10px 15px;
+    border-radius: 4px;
+    opacity: 0.3; 
+}
+
+.top-btn:hover {
+    background-color: rgb(240, 240, 240);
+    color: #6fb9f5;
+    opacity: 1;
+}
+
+.active-icons {
+    padding: 0 2%;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.active-icons a {
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.active-icons .icon-pencil-1 {
+    cursor: pointer;
+}
+
+.active-icons .icon-pencil-1:hover,
+.active-icons .icon-globe:hover{
+    color: #f40505;
+}
